@@ -3,7 +3,7 @@
 **Rurucchi/Rurucchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🖱 About me (●'◡'●) :
+🔓 About me (●'◡'●) :
 - 17 years old
 - Student
 
@@ -11,6 +11,10 @@
 - HTML
 - CSS
 - Javascript
+
+🖱 Frameworks :
+- ReactJS
+- AngularJS
 
 📱 Languages : 
 - French
