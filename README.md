@@ -11,9 +11,6 @@
 - HTML
 - CSS
 - Javascript
-- C# (later on)
-- Java (later on)
-- C++ (later on)
 
 📱 Languages : 
 - French
