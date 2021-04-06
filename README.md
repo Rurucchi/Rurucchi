@@ -13,9 +13,8 @@
 - Javascript
 
 🖱 Frameworks :
-- ReactJS
-- AngularJS
-- Vanilla (not a framework but whatever)
+- React
+- Angular (learning)
 
 📱 Languages : 
 - French
