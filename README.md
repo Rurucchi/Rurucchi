@@ -11,10 +11,19 @@
 - HTML
 - CSS
 - Javascript
+- C#
+- C++
 
-🖱 Frameworks :
+🖱 JS Frameworks :
 - React
 - Angular (learning)
+
+🍚 IDEs :
+- Visual Studio
+
+🍙 Code Editors :
+- Visual Studio Code
+- Vim
 
 📱 Languages : 
 - French
