@@ -3,6 +3,8 @@
 **Rurucchi/Rurucchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+別の世界からの旅行者.
+
 🔓 About me (●'◡'●) :
 - 17 years old
 - Student
