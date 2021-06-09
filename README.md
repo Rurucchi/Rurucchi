@@ -20,6 +20,7 @@
 
 🍚 IDEs :
 - Visual Studio
+- Unity
 
 🍙 Code Editors :
 - Visual Studio Code
