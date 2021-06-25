@@ -18,7 +18,6 @@
 
 🖱 JS Frameworks :
 - React
-- Angular (learning)
 
 🍚 IDEs :
 - Visual Studio
