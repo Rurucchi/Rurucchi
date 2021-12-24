@@ -12,25 +12,27 @@
 適切なタイミングで間違った場所で生まれた。。。
 
 🔓 About me (●'◡'●) :
-- 17 years old
-- Student
+- 18 years old
+- IT Student
 
 💻 Learning programming languages :
 - HTML
 - CSS
 - Javascript
 - C#
-- C++
+- Java
+- Python
 
 🖱 JS Frameworks :
 - React
 
 🍚 IDEs :
-- Visual Studio
+- Visual Studio Community
 - Unity
 
 🍙 Code Editors :
 - Visual Studio Code
+- Visual Studio Community 2022
 - Vim
 
 📱 Languages : 
