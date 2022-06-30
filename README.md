@@ -12,8 +12,6 @@
 - CSS
 - Javascript
 - C#
-- Java
-- Python
 
 🖱 JS Frameworks :
 - React
