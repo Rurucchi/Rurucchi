@@ -11,21 +11,19 @@
 - HTML
 - CSS
 - Javascript
+- Typescript
 - C#
 
 🖱 JS Frameworks :
 - React
 
-🍚 IDEs :
-- Visual Studio Community
-- Unity
+🍚 IDE :
+- Visual Studio Community 2022
 
 🍙 Code Editors :
 - Visual Studio Code
-- Visual Studio Community 2022
-- Vim
+- Nano
 
 📱 Languages : 
 - French
 - English
-- Japanese (learning)
