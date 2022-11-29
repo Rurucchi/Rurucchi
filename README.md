@@ -4,21 +4,17 @@
 -->
 
 🔓 About me (●'◡'●) :
-- 18 years old
+- 19 years old
 - IT Student
+- JS dev at Next-Up Technologies
 
-💻 Learning programming languages :
-- HTML
-- CSS
-- Javascript
-- Typescript
+💻 Main programming languages :
+- HTML/CSS
+- Javascript/Typescript
 - C#
 
 🖱 JS Frameworks :
 - React
-
-🍚 IDE :
-- Visual Studio Community 2022
 
 🍙 Code Editors :
 - Visual Studio Code
