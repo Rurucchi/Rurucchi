@@ -8,18 +8,19 @@
 - IT Student
 - JS dev at Next-Up Technologies
 
-💻 Main programming languages :
+💻 Programming languages :
 - HTML/CSS
 - Javascript/Typescript
 - C#
 
 🖱 JS Frameworks :
 - React
+- SvelteKit
 
-🍙 Code Editors :
+🍙 Code/Text Editors :
 - Visual Studio Code
 - Nano
 
-📱 Languages : 
+📱 Languages spoken : 
 - French
 - English
