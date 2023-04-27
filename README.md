@@ -11,7 +11,9 @@
 💻 Programming languages :
 - HTML/CSS
 - Javascript/Typescript
+- Python
 - C#
+- C++
 
 🖱 JS Frameworks :
 - React
