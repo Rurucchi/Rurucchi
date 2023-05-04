@@ -6,7 +6,7 @@
 🔓 About me (●'◡'●) :
 - 19 years old
 - IT Student
-- JS dev at Next-Up Technologies
+- JS dev at Next-Up Technologies (2022 - 2023)
 
 💻 Programming languages :
 - HTML/CSS
@@ -14,14 +14,11 @@
 - Python
 - C#
 - C++
+- PHP
 
 🖱 JS Frameworks :
 - React
 - SvelteKit
-
-🍙 Code/Text Editors :
-- Visual Studio Code
-- Nano
 
 📱 Languages spoken : 
 - French
