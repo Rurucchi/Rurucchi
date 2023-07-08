@@ -11,14 +11,13 @@
 💻 Programming languages :
 - HTML/CSS
 - Javascript/Typescript
+- C
+- C++
+- Rust
 - Python
 - C#
 - C++
 - PHP
-
-🖱 JS Frameworks :
-- React
-- SvelteKit
 
 📱 Languages spoken : 
 - French
