@@ -5,19 +5,16 @@
 
 🔓 About me (●'◡'●) :
 - 19 years old
-- IT Student
 - JS dev at Next-Up Technologies (2022 - 2023)
+- JS dev at Hollo (2023 - 2025)
 
 💻 Programming languages :
 - HTML/CSS
 - Javascript/Typescript
-- C
-- C++
+- C/C++
 - Rust
 - Python
 - C#
-- C++
-- PHP
 
 📱 Languages spoken : 
 - French
