@@ -4,7 +4,7 @@
 -->
 
 🔓 About me (●'◡'●) :
-- 19 years old
+- 20 years old
 - JS dev at Next-Up Technologies (2022 - 2023)
 - JS dev at Hollo (2023 - 2025)
 
