@@ -7,11 +7,12 @@
 - 20 years old
 - JS dev at Next-Up Technologies (2022 - 2023)
 - JS dev at Hollo (2023 - 2025)
+- Game dev
 
 💻 Programming languages :
+- C/C++
 - HTML/CSS
 - Javascript/Typescript
-- C/C++
 - Rust
 - Python
 - C#
