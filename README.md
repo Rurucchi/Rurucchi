@@ -4,12 +4,10 @@
 -->
 
 🔓 About me (●'◡'●) :
-- 20 years old
-- JS dev at Next-Up Technologies (2022 - 2023)
-- JS dev at Hollo (2023 - 2025)
+- JS dev (2022 - 2023)
 - Game dev
 
-💻 Programming languages :
+💻 Languages :
 - C/C++
 - HTML/CSS
 - Javascript/Typescript
@@ -17,6 +15,4 @@
 - Python
 - C#
 
-📱 Languages spoken : 
-- French
-- English
+🇬🇧 OK
