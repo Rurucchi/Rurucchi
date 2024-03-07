@@ -4,7 +4,7 @@
 -->
 
 🔓 About me (●'◡'●) :
-- JS dev (2022 - 2023)
+- JS dev
 - Game dev
 
 💻 Languages :
