@@ -4,8 +4,9 @@
 -->
 
 🔓 About me (●'◡'●) :
-- JS dev
 - Game dev
+- Low level dev
+- Web dev
 
 🍚 Skills :
 - Low level programming (C/C++/win32)
