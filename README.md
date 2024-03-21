@@ -7,6 +7,15 @@
 - JS dev
 - Game dev
 
+🍚 Skills :
+- Low level programming (C/C++/win32)
+- Low level game development (C/C++/GDI/OpenGL)
+- High level game development (Unity, .NET)
+- Game tools (C/C++/Rust/Python)
+- Back-End development (JS/TS/GoLang/Rust)
+- Front-End development (JS/TS)
+- Mobile development (React Native/Flutter/Java)
+
 💻 Languages :
 - C/C++
 - HTML/CSS
