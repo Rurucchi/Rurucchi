@@ -10,7 +10,7 @@
 
 🍚 Skills :
 - Low level programming (C/C++/win32)
-- Low level game development (C/C++/GDI/OpenGL)
+- Low level game development (C/C++/D3D11/OpenGL)
 - High level game development (Unity, .NET)
 - Game tools (C/C++/Rust/Python)
 - Back-End development (JS/TS/GoLang/Rust)
